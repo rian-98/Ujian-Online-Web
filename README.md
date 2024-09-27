@@ -1,5 +1,5 @@
 # Ujian-Online-Web
-<p>Username $ Password ada di bawah</p>
+<p>Username & Password ada di bawah</p>
 <img src="https://github.com/rian-98/Ujian-Online-Web/blob/main/01.png">
 <img src="https://github.com/rian-98/Ujian-Online-Web/blob/main/02.png">
 <h1>System Requirement :</h1>
@@ -12,5 +12,6 @@
 <li>Password : smkbisa</li>
 <p><i><b>*Notes : Jika Password salah, coba dengan "madrasahbisa"</b></i></p>
 <hr>
-<p>Cara Install Kunjungi </p>
-<a href="https://www.youtube.com/watch?v=IgYnVPPTjBE&t=1849s">Situsnya</a>
+<p>Cara Install Kunjungi
+    <a href="https://www.youtube.com/watch?v=IgYnVPPTjBE&t=1849s">Situsnya</a>
+</p>
