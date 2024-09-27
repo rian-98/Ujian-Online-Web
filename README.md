@@ -11,3 +11,6 @@
 <li>Username : admin</li>
 <li>Password : smkbisa</li>
 <p><i><b>*Notes : Jika Password salah, coba dengan "madrasahbisa"</b></i></p>
+<hr>
+<p>Cara Install Kunjungi </p>
+<a href="https://www.youtube.com/watch?v=IgYnVPPTjBE&t=1849s">Situsnya</a>
