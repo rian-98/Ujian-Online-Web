@@ -1,6 +1,8 @@
 # Ujian-Online-Web
 <h3>Username & Password ada di bawah</h3>
+<hr>
 <h1>Tampilan Aplikasi</h1>
+<hr>
 <img src="https://github.com/rian-98/Ujian-Online-Web/blob/main/01.png">
 <img src="https://github.com/rian-98/Ujian-Online-Web/blob/main/02.png">
 <h1>System Requirement :</h1>
