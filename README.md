@@ -2,11 +2,10 @@
 <h3>Username & Password ada di bawah</h3>
 <hr>
 <h1>Tampilan Aplikasi</h1>
-<hr>
 <img src="https://github.com/rian-98/Ujian-Online-Web/blob/main/01.png">
 <img src="https://github.com/rian-98/Ujian-Online-Web/blob/main/02.png">
-<h1>System Requirement :</h1>
 <hr>
+<h1>System Requirement :</h1>
 <li>XAMPP</li>
 <li>PHP Version : 5.6 or Lates</li>
 <hr>
@@ -19,3 +18,4 @@
 <p>Cara Install Kunjungi
     <a href="https://www.youtube.com/watch?v=IgYnVPPTjBE&t=1849s">Situsnya</a>
 </p>
+<hr>
