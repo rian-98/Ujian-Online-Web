@@ -16,6 +16,6 @@
 <p><i><b>*Catatan : Jika Password salah, coba dengan "madrasahbisa"</b></i></p>
 <hr>
 <p>Cara Install Kunjungi
-    <a href="https://www.youtube.com/watch?v=IgYnVPPTjBE&t=1849s">Sumber Youtube Berikut</a>
+    <a href="https://www.youtube.com/watch?v=IgYnVPPTjBE&t=1849s" target="_blank">Sumber Youtube Berikut</a>
 </p>
 <hr>
