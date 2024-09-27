@@ -18,4 +18,8 @@
 <p>Cara Install Kunjungi
     <div><a href="https://www.youtube.com/watch?v=IgYnVPPTjBE&t=1849s" target="blank">Sumber Youtube Berikut</a></div>
 </p>
+<li class="nav-item"><a class="nav-link" href="https://reces17.blogspot.com/" target="_blank"
+    title="Blogger"><i class="fab fa-blogger"></i><span
+      class="menu-title sr-only">Twitter</span></a>
+</li>
 <hr>
